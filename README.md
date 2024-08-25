@@ -2,7 +2,7 @@
 
 ![Profile Picture](https://via.placeholder.com/150)
 
-Seattle, Washington | (720)-366-9945 | [singhpoo@usc.edu](mailto:singhpoo@usc.edu) | [LinkedIn](https://www.linkedin.com/in/singhpoo/)
+Seattle, Washington | [singhpoo@usc.edu](mailto:singhpoo@usc.edu) | [LinkedIn](https://www.linkedin.com/in/singhpoo/)
 
 ## Full Stack Software Engineer
 
