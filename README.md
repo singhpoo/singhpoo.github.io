@@ -1,6 +1,6 @@
 # Pooja Singh
 
-![Profile Picture](IMG_0098_Original 3)
+![Profile Picture](`IMG_0098_Original 3`)
 
 Seattle, Washington | [singhpoo@usc.edu](mailto:singhpoo@usc.edu) | [LinkedIn](https://www.linkedin.com/in/singhpoo/)
 
