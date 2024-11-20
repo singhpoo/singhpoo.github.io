@@ -26,9 +26,7 @@ Lately, I’ve been diving deep into the world of Large Language Models (LLMs)�
 
 When I’m not coding, you’ll find me outdoors—whether it's hiking, backpacking, scuba diving, bouldering, or planning my next road trip. I have 2 reactive dogs who I love and adore. They’re a work in progress, but it’s a rewarding challenge!
 
-I enjoy connecting with new people and building relationships. Recently, I started meditating to stay grounded and combat seasonal blues here in Seattle. 🧘‍♂️
-
-So if you’re looking for someone who’s passionate about building innovative applications and enjoys a good cup of coffee (or three), let’s connect!
+I enjoy connecting with new people and building relationships. So if you’re looking for someone who’s passionate about building innovative applications and enjoys a good cup of coffee (or three), let’s connect!
 
 ---
 ### Recent Projects with LLMs
