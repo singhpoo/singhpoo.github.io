@@ -25,6 +25,9 @@ Hi there! I’m a Full Stack Software Engineer with over 7 years of experience b
 ---
 ### Recent Projects with LLMs
 
+### LLM Gateway
+Currently working on building an open-source custom **AI gateway** that integrated OpenAI, Anthropic's Claude, and Google's Gemini models. This project focuses on effective cost management while implementing fallback mechanisms and caching strategies, streamlining AI integrations for developers and businesses.
+
 ### MIDI generator
 Built an app that allows users to compose multi-track midi music using advanced Language Models (LLMs). Utilizing **TypeScript** and deploying it on **Vercel**, I created a platform where anyone can easily turn their ideas into musical compositions.
 
@@ -33,9 +36,6 @@ Developed a therapy chatbot designed to provide support through advanced prompti
 
 ### Learning Assistant
 Created a **Learning Assistant** that combined a comprehensive database of course materials with **Retrieval-Augmented Generation (RAG)**. This tool offered an interactive learning experience, enabling users to explore any subject dynamically as if they had a personal tutor at their fingertips.
-
-### LLM Gateway
-Currently working on building an open-source custom **AI gateway** that integrated OpenAI, Anthropic's Claude, and Google's Gemini models. This project focuses on effective cost management while implementing fallback mechanisms and caching strategies, streamlining AI integrations for developers and businesses.
 
 ---
 
