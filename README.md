@@ -19,8 +19,16 @@
 ---
 
 ### About Me
+Hi there, I’m Pooja – a caffeine-fueled explorer of all things tech!
+I moved from India to the US in 2016 to pursue my MS at USC, and since then, I've been on a mission to automate all things boring—because who wants to waste time on mundane tasks? With over 7 years of experience as a Full Stack Engineer, I’ve dabbled in everything from frontend wizardry to backend sorcery, cloud technologies, and even applied ML.
 
-Hi there! I’m a Full Stack Software Engineer with over 7 years of experience building tools and systems that make life easier for users and teams alike. My work has spanned frontend and backend development, cloud technologies, AI/ML integrations, and mentoring the next generation of developers. I thrive on collaboration and love turning complex ideas into efficient, user-friendly solutions.
+Lately, I’ve been diving deep into the world of Large Language Models (LLMs)—it’s an exciting time to be a developer! I spend my free time building applications that leverage the power of LLMs, transforming complex ideas into simple, user-friendly solutions. 🚀
+
+When I’m not coding, you’ll find me outdoors—whether it's hiking, backpacking, scuba diving, bouldering, or planning my next road trip. I have 2 reactive dogs who I love and adore. They’re a work in progress, but it’s a rewarding challenge!
+
+I enjoy connecting with new people and building relationships. Recently, I started meditating to stay grounded and combat seasonal blues here in Seattle. 🧘‍♂️
+
+So if you’re looking for someone who’s passionate about building innovative applications and enjoys a good cup of coffee (or three), let’s connect!
 
 ---
 ### Recent Projects with LLMs
@@ -90,4 +98,4 @@ Created a **Learning Assistant** that combined a comprehensive database of cours
 
 ---
 
-Feel free to reach out or connect—I’m always up for collaborating on exciting projects or just chatting about tech and creativity!
+Feel free to reach out or connect— I’m always up for collaborating on exciting projects or just chatting about tech and creativity!
