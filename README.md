@@ -1,14 +1,14 @@
 # Pooja Singh
 
-<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <img src="IMG_1072_Original.jpeg" 
        alt="Colchuck Lake from the top of Aasgard Pass" 
-       style="width: 45%; height: auto; margin: 0 10px;" 
+       width="500" height="380" 
        title="Colchuck Lake from the top of Aasgard Pass">
-  
+       
   <img src="IMG_8835_Original.jpeg" 
        alt="On the way to the summit of Mt. St. Helens" 
-       style="width: 45%; height: auto; margin: 0 10px;" 
+       width="500" height="380" 
        title="On the way to the summit of Mt. St. Helens">
 </div>
 
@@ -27,10 +27,9 @@ Hi there! I’m a Full Stack Software Engineer with over 7 years of experience b
 ### What I Do
 
 - Build intuitive interfaces with **React**, **Angular**, and other modern frontend frameworks.
-- Architect reliable backends using **Node.js** and manage data with **NoSQL/SQL** solutions.
+- Architect reliable applications using **Node.js** and manage data with **NoSQL/SQL** solutions.
 - Create robust testing environments with **Puppeteer**, **Playwright**, and **Jest**.
-- Leverage **Azure**, **AWS**, and **Kubernetes** to scale and optimize systems.
-- Experiment with cutting-edge **AI/ML** technologies, like **LLM applications** and **LangChain**.
+- Experiment with cutting-edge **AI/ML** technologies, like **LLM applications** 
 
 ---
 
