@@ -1,6 +1,16 @@
 # Pooja Singh
 
-<img src="IMG_0098_Original%203.jpg" alt="Profile Picture" width="200" height="200"/>
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+  <img src="IMG_1072_Original.jpeg" 
+       alt="Colchuck Lake from the top of Aasgard Pass" 
+       style="width: 45%; height: auto; margin: 0 10px;" 
+       title="Colchuck Lake from the top of Aasgard Pass">
+  
+  <img src="IMG_8835_Original.jpeg" 
+       alt="On the way to the summit of Mt. St. Helens" 
+       style="width: 45%; height: auto; margin: 0 10px;" 
+       title="On the way to the summit of Mt. St. Helens">
+</div>
 
 ## Full Stack Software Engineer
 
