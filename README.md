@@ -80,6 +80,7 @@ Created a **Learning Assistant** that combined a comprehensive database of cours
 *Bangalore, India | June 2015 - June 2016*
 - Automated CI/CD pipelines using AWS, Azure, Chef, and Puppet
 - Designed client cloud architectures and facilitated migrations
+  
 ---
 
 ### Education
