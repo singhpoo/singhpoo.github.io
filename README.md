@@ -24,7 +24,7 @@ I moved from India to the US in 2016 to pursue my MS at USC, and since then, I'v
 
 Lately, I’ve been diving deep into the world of Large Language Models (LLMs)—it’s an exciting time to be a developer! I spend my free time building applications that leverage the power of LLMs, transforming complex ideas into simple, user-friendly solutions. 🚀
 
-When I’m not coding, you’ll find me outdoors—whether it's hiking, backpacking, scuba diving, bouldering, or planning my next road trip. I have 2 reactive dogs who I love and adore. They’re a work in progress, but it’s a rewarding challenge!
+When I’m not coding, you’ll find me outdoors— whether it’s hiking, backpacking, scuba diving, bouldering, or planning my next road trip. I have a goofy Golden Retriever, Ralph, whom I love and adore.
 
 I enjoy connecting with new people and building relationships. So if you’re looking for someone who’s passionate about building innovative applications and enjoys a good cup of coffee (or three), let’s connect!
 
